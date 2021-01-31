@@ -1,6 +1,6 @@
 # cyclegan
 ## sample
-**Original/Transfer to Monet style**   
+### Original/Transfer to Monet style
 <a>
   <img align="left" src=https://github.com/TakeruEndo/GDL_pytorch/blob/main/cycleGAN/sample/photo1.png width=300 />
 </a>
@@ -8,7 +8,8 @@
   <img align="left" src=https://github.com/TakeruEndo/GDL_pytorch/blob/main/cycleGAN/sample/photo1.png width=300 />
 </a>
 
-**Original/Transfer to fantastic style**   
+
+### Original/Transfer to fantastic style   
 <a>
   <img align="left" src=https://github.com/TakeruEndo/GDL_pytorch/blob/main/cycleGAN/sample/photo2.png width=300 />
 </a>
