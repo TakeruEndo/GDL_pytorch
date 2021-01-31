@@ -6,7 +6,7 @@
       <img src=https://github.com/TakeruEndo/GDL_pytorch/blob/main/cycleGAN/sample/photo1.png width=300 />
     </a>
     <a>
-      <img src=https://github.com/TakeruEndo/GDL_pytorch/blob/main/cycleGAN/sample/photo1.png width=300 />
+      <img src=https://github.com/TakeruEndo/GDL_pytorch/blob/main/cycleGAN/sample/photo1_monet.png width=300 />
     </a>
 </div>
 
